@@ -1,6 +1,6 @@
 {
-    "name": "adamtyn/lumen-artisan-up",
-    "description": "移植Laravel的 `php artisan up` [退出维护模式]指令到Lumen",
+    "name": "adamtyn/lumen-middleware-check-maintenance",
+    "description": "移植Laravel的 `CheckForMaintenanceMode` [检查维护模式]中间件到Lumen",
     "keywords": [
         "framework",
         "laravel",
