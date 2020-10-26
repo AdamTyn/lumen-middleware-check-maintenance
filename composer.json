@@ -1,0 +1,24 @@
+{
+    "name": "adamtyn/lumen-artisan-up",
+    "description": "移植Laravel的 `php artisan up` [退出维护模式]指令到Lumen",
+    "keywords": [
+        "framework",
+        "laravel",
+        "lumen",
+        "adamtyn"
+    ],
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "AdamTyn",
+            "email": "tynadam@foxmail.com"
+        }
+    ],
+    "require": {},
+  	"autoload":{
+  		"psr-4": {
+              "AdamTyn\\Lumen\\Middleware\\": "src/"
+          }
+  	}
+}
